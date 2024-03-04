@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @jorge-komatsu-bct
+👋 Hi, I’m @jorge-komatsu-bct
 

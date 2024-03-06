@@ -3,9 +3,3 @@
 ----
 
 # AZURE CLI
-
-get account subscription id
-
-```bash
-az account show --query id
-```
